@@ -12,7 +12,13 @@
  *
  *= require_tree .
  *= require_self
-
+ *= require elegant-fonts
+ *= require style
+ *= require	style_1.css
+ *= require swiper
+ *= require swiper.min
+ *= require themify-icons
+ *= require thumbnail-gallery
  */
 @import "bootstrap-sprockets";
 @import "bootstrap";
